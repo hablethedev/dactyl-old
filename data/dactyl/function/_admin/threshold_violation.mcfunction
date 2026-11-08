@@ -1,0 +1,1 @@
+$tellraw @a[tag=dactyl.admin] [{color:"#9b9be3",text:"[Dactyl] "},{color:"red",text:"$(PlayerName) reached violation threshold on $(ViolationType)"}]

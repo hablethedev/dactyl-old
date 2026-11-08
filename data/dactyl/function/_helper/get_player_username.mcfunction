@@ -1,0 +1,2 @@
+execute in minecraft:overworld run loot replace block 0 200 0 container.0 loot dactyl:player_head
+execute in minecraft:overworld run data modify storage hablethedev:dactyl PlayerName set from block 0 200 0 Items[0].components."minecraft:profile".name

@@ -1,0 +1,2 @@
+execute if score $show_personal_violations dactyl.moose.variables matches 1 as @a run function dactyl:_moose/show_personal_violations
+execute if score $show_dactyl_header dactyl.moose.variables matches 1 as @a run function dactyl:_moose/show_dactyl_header
